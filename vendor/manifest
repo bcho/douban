@@ -1,0 +1,13 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/PuerkitoBio/goquery",
+			"repository": "https://github.com/PuerkitoBio/goquery",
+			"vcs": "git",
+			"revision": "3cb3b8656883c2cc3deb9c643d93ea6e5157e425",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
