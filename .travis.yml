@@ -5,3 +5,5 @@ go:
     - 1.7
     - 1.6
     - 1.5
+install:
+  - go instal ./...
