@@ -4,7 +4,6 @@ go:
     - tip
     - 1.7
     - 1.6
-    - 1.5
 before_install:
   - go get -u github.com/FiloSottile/gvt
 install: make get-deps
